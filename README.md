@@ -15,12 +15,12 @@ A5 ->
 
 A6 -> vulnerable component : https://youtu.be/ovgbDHDNWjA
 
-A7 ->
+A7 -> IDENTIFICATION AND AUTHENTICATION FAILURES : https://youtu.be/C-1z6uq82gU
 
 A8 -> software and data integrity failures : https://youtu.be/64ajMdUMB7s
 
-A9 ->
+A9 -> security logging and monitoring failures : 
 
 A10 -> http over udp/quic : https://youtu.be/3Yg3bOGKn7Q
 
-a11 ->
+a11 -> teknologi reverse proxy dan load balancing : https://youtu.be/bP6tDqBk7l8
